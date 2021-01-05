@@ -2,11 +2,7 @@ Esta es la historia de mi vida
 
 tengo 16 años 
 y ya se acaba el dia
-<<<<<<< HEAD
 Anita Platzi contribuye en OpenSource
 
-=======
-miau
->>>>>>> 975209de58529a497b96b9d837f3bc44961e4c47
 y me gusta saltar
 Luego nos enfocaremos en su historia laboral
