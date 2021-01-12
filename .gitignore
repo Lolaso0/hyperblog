@@ -1,2 +1,4 @@
 *.jpg 
-USUARIO/proyecto1/comando.txt
+USUARIO/proyecto1/comando
+.git/*
+proyecto1/borrable.txt
