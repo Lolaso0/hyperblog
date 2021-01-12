@@ -6,8 +6,8 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 ## Informacion
 * Proyecto muy elaborado
 * Gran curso
-* Gran Freddy
-* Aun no se C++
+* **Gran Freddy**
+* **Aun no se C++**
 ## En este curso vemos de todo
 * Todos los comandos de Git
 * El flujo de trabajo en Github
@@ -18,9 +18,10 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * Por cierto **NO LEAS ESTA LINEA porque te pondre MI** **[TIKTOK](https://www.tiktok.com/@tiktok.ncs?lang=es)**
+
 * Mensaje **SECRETO**
 Aaaaa
 
-> - Tu abuelita
+> - **Tu abuelita**
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
